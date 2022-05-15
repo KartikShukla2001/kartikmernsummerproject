@@ -1,13 +1,13 @@
-#Realtime Chat Application
+# Realtime Chat Application
 
 A Global Chat which can be used by anyone using the application to broadcast messages to everyone else.
 A Private Chat functionality where users can chat with other users privately.
 Real-time updates to the user list, conversation list, and conversation messages.
 
-#Requirements:
+# Requirements:
 Insert the MONGODB URI in the .env file
 
-#HOW TO USE:
+# HOW TO USE:
 
 Install dependecies for the server 
 npm install
